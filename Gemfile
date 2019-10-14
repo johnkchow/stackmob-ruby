@@ -9,7 +9,7 @@ gem "rack-proxy", "~> 0.3.7"
 
 group :development do
   gem "minitest", "~> 2.11.0"
-  gem "yard", "~> 0.6.0"
+  gem "yard", "~> 0.9.20"
   gem "cucumber", ">= 0"
   gem "bundler", "~> 1.0.0"
   gem "jeweler", "~> 1.6.4"
